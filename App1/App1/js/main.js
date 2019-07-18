@@ -4,3 +4,7 @@
 //code was added in vs
 
 //code to call script js
+//writing some wierd vode blah blah 
+//public this (){
+//oh yeah
+//}
